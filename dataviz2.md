@@ -10,3 +10,10 @@ The following graph has information on the debt to GDP ratio per country. Not al
 point for each country is being shown with a bigger point.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11713087"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+# Visualization of governments debt to GDP ratio by year - Which countries have a higher ratio?
+The following visualization shows the debt to GDP ratio by year per country. It concentrates on displaying which countries have the highest ratio per year.
+
+<div class="flourish-embed flourish-scatter" data-src="visualisation/11720060"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## How are these visualizations different?
