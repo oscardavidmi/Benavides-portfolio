@@ -17,3 +17,4 @@ The following visualization shows the debt to GDP ratio by year per country. It 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/11720060"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## How are these visualizations different?
+Each visualization serves a different purpose even though they are all based on the same data. Our first visualization shows the debt to GDP ratio for one year only (2018) it does not really have any specific focus other than showing the ratios. The second visualization allows us to use a specific timeframe to see all the countries ratio by year marking the last datapoint. Finally, the third visualization focuses on showing which countries have a highes debt to GDP ratio.
