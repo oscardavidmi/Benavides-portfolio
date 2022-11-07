@@ -12,7 +12,9 @@ point for each country is being shown with a bigger point.
 <div class="flourish-embed flourish-chart" data-src="visualisation/11713087"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Visualization of governments debt to GDP ratio by year - Which countries have a higher ratio?
-The following visualization shows the debt to GDP ratio by year per country. It concentrates on displaying which countries have the highest ratio per year.
+The following visualization shows the debt to GDP ratio by year per country, the visualization changes the year automatically to display how the debt ratio has changed over the years for each country. It concentrates on displaying which countries have the highest ratio per year through the use of the size of the dot and the color.
+The reason why I chose this visualization is because the use of a diverging pallet allows me to cast a light on the countries that display the highest ratio and show a focus of the visualization to tell a story and not just show data as the last visualizations. 
+Some of the interesting data we can see through this visualization is that GRC, JPN and ITA were the countries with the highest debt ratio in 2018; there were also some other countries which had high ratios (over 100), but most of the countries had ratios that were under 100.
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/11720060"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
