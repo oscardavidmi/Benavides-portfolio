@@ -10,5 +10,6 @@ What i want to learn in this course is how different types of visualizations can
 # Portfolio
 Please access each link to see some of the visualizations that are part of my portfolio
 - [Visualizing government debt](https://oscardavidmi.github.io/Benavides-portfolio/dataviz2)
+- [Tableau Demo](https://oscardavidmi.github.io/Benavides-portfolio/tableau_demo)
 - Final project
 - Storyboards
