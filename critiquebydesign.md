@@ -1,3 +1,6 @@
+# Link to main page
+If you wish to go back to my main page please use the following link:
+[Main page](https://oscardavidmi.github.io/Benavides-portfolio/)
 # Critique by design
 The following is a critique of a visualization I was interested in. The URL to the visualization is: https://studentwork.prattsi.org/infovis/visualization/changes-in-the-gaming-industry/ the name of the visualization I picked from this report is "Genre releases over time". Please check the reference page for the complete reference.
 ## Why did I pick this visualization?
