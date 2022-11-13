@@ -103,5 +103,5 @@ to do with number of releases per year and I also wanted to evidence which is th
 industry trend.
 
 
-#References
+# References
 Kostova, V. (2019, March 17). Changes in the Video Game Industry. Information Visualization. https://studentwork.prattsi.org/infovis/visualization/changes-in-the-gaming-industry/
