@@ -62,18 +62,18 @@ Adult mid 30’s - not a gamer
 
 The feedback gave me some information I wanted to take into acount for my final visualization. The analysis I generated from my interviews was:
 
-•	What patterns in the feedback emerge? 
-  o	 The intent of the visualization was done, knowledge of the trend of genres was displayed and also one of the people interviewed observed the change in trend when 
+- What patterns in the feedback emerge? 
+  - The intent of the visualization was done, knowledge of the trend of genres was displayed and also one of the people interviewed observed the change in trend when 
      the number of releases suffered a big reduction after 2008.
-  o	 One of the people interviewed manifested that using a low number of groups its ok but that increasing the groups too much would call too much attention on each of 
+  - One of the people interviewed manifested that using a low number of groups its ok but that increasing the groups too much would call too much attention on each of 
      the categories
-•	What did you learn from the feedback?
-  o 	I learned that the graph is telling a story and giving information both on trends of genre as well as adding information on the quantity of releases per year
-  o 	I learned that I should reduce the number of categories being displayed so as to not overwhelm the viewer with too much information
-•	What will I change in my graph?
-  o	 I was thinking of following the example of the first visualization and using 10 categories to show the biggest 10 genres per year but after the feedback I will  
+- What did you learn from the feedback?
+  - I learned that the graph is telling a story and giving information both on trends of genre as well as adding information on the quantity of releases per year
+  - I learned that I should reduce the number of categories being displayed so as to not overwhelm the viewer with too much information
+- What will I change in my graph?
+  - I was thinking of following the example of the first visualization and using 10 categories to show the biggest 10 genres per year but after the feedback I will  
      only be using 5 categories per year and an extra category called “other” which will have the sum of the rest of genres.
-  o	 I would also like to add a filter that users can use to see some years in more detail, given the trend of the industry some years have very few releases and that
+  - I would also like to add a filter that users can use to see some years in more detail, given the trend of the industry some years have very few releases and that
      doesn’t make it very easy to appreciate a difference between the genres
 
 ### The final visualization
