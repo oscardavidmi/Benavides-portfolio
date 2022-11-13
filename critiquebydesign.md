@@ -17,7 +17,8 @@ visualization that would convey a message would look for me.
 ### Sketching a solution
 After understanding the visualization, realizing which story I wanted it to tell and to whom I had an idea of how to make an effective visualization. But first I wanted
 to create a quick sketch and test it out with a couple of people so that I could know if it was conveying the message I wanted.
-I used the online tool Figma and created 
+I used the online tool Figma and created the following sketch to show how I thought the visualization should be displayed:
+![Sketch](https://oscardavidmi.github.io/Benavides-portfolio/Sketch.jpg?raw=true)
 
 
 
