@@ -87,7 +87,17 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
 #### What story does the visualization tell
+- From the visualization we can appreciate how each year there are 5 genres that dominate the industry because of the number of releases
+- We can appreciate how the game releases had a steady increase from 1996-2000 , 2001-2008 and then the number of game releases decined from 2009-2016
+- We can also see how the action genre has been the genre that gets the most releases but for 2016 when the adventure genre had a slightly higher number of releases
 
+#### Why I selected this visualization and what did i attempt to do differently
+The reason why I kept the stacked bar which was the same graph the original visualization had was because I really liked the way it showed the different game releases 
+categories while also providing an overview of the trend for game releases through the years; the use of stacked bars is adequate given the information that wants to
+be given to the people reviewing the visualization.
+Somethings I attempted to change were the focus to telling a story and the colors that were being used. I wanted to show the trend of the gaming industry in what had 
+to do with number of releases per year and I also wanted to evidence which is the genre that almost always dominates in terms of number of releases to understand the 
+industry trend.
 
 
 #References
