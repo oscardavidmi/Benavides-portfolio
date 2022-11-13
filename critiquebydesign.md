@@ -20,7 +20,8 @@ to make the chart more understandable and help to transmit a story to people who
 I started of by using Stephen Few's guide to evaluate a visualization. I went through all of the characteristics that are tested in a visualization such as the usefulness, completeness, etc. After evaluating the visualization I reflected on what worked on the visualization and what didnt to understand which made me understand
 that I didnt really like the scale that was used for the visualization; it was confusing since it was a sequential palette and categories could not be told apart.
 Moreover, the title did not provide any real insight so it was not clear to me what exactly we wanted to see in this graph, the name of the axis seemed a little to
-simple for my taste as well and there was information that was missing; how could i know the number of releases per year if information had been omitted.
+simple for my taste as well and there was information that was missing; how could i know the number of releases per year if information had been omitted. In addition 
+to this, I didnt like the labels that were being used in the visualization, I though they were distracting and went taking attention from the main idea of the visualization.
 On the other hand, I really liked the graph since a stacked bar was the way to go to display various categories through the years. 
 After thinking of the information I wanted to convey with this visualization and understanding what worked and what did not, I produced an idea of what a good 
 visualization that would convey a message would look for me.
