@@ -113,7 +113,7 @@ industry trend.
 
 
 ### The final visualization feedback - Part 1
-After sharing my final visualization with my teammates and class. I was able to identify some points that could make my visualizations better. Taking that feedback into account I produced the following visualizations:
+After sharing my final visualization with my teammates and class. I was able to identify some points that could make my visualizations better. Taking that feedback into account which included a different way to present the top 5 genres, the constant presence of the action genre. I produced the following visualizations:
 
 <div class='tableauPlaceholder' id='viz1668564980611' style='position: relative'><noscript><a href='#'><img alt='Sports overthrown from second place for good? ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ga&#47;GamingGenres&#47;Hoja1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GamingGenres&#47;Hoja1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ga&#47;GamingGenres&#47;Hoja1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='es-ES' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
@@ -133,6 +133,7 @@ After sharing my final visualization with my teammates and class. I was able to 
 - From the visualization we can appreciate how each year there are 2 genres that dominate the industry because of the number of releases
 - We can appreciate how the game releases had a steady increase from 1996-2000 , 2001-2008 and then the number of game releases decined from 2009-2016
 - We can also see how the action genre has been the genre that gets the most releases and for most of the years sports had been the 2 genre with the most releases (12 consecutive years from 1996 to 2007) but most recently it has been the adventure genre that has taken the second place in number of releases
+- We can also appreciate how the top 5 genres present some variation in the second chart but the action genre is always present. This makes sense because as a gamer I know the action genre is normally the most popular
 
 #### Why I selected this visualization and what did i attempt to do differently
 The reason why I kept the stacked bar which was the same graph the original visualization had was because I really liked the way it showed the different game releases 
@@ -140,6 +141,7 @@ categories while also providing an overview of the trend for game releases throu
 be given to the people reviewing the visualization.
 Somethings I attempted to change were the focus to telling a story and the colors that were being used. I wanted to show the trend of the gaming industry in what had 
 to do with number of releases per year and I wanted to put emphasis on those genres (1st and 2nd place which have dominated the releases per year).
+Moreover, although the stacked bar chart allows me to clearly show the number of releases per year and the top genres for each year; I still wanted to show the user how the top 5 genres changed per year but the action genre was a constant always and how it has also suffered the reduction in the number of releases across the industry (we can see how the action genre has a decreased size in the most recent years which tends to be very close to the size of the other top genres).
 
 # References
 Kostova, V. (2019, March 17). Changes in the Video Game Industry. Information Visualization. https://studentwork.prattsi.org/infovis/visualization/changes-in-the-gaming-industry/
