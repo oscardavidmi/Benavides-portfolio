@@ -77,7 +77,7 @@ The feedback gave me some information I wanted to take into acount for my final 
   - I would also like to add a filter that users can use to see some years in more detail, given the trend of the industry some years have very few releases and that
      doesn’t make it very easy to appreciate a difference between the genres
 
-### The final visualization
+### The final visualization - Part 1
 After going through the process of:
 1. Finding a visualization I was interested in
 2. Evaluating it to understand what I liked and what I didnt like
@@ -96,6 +96,10 @@ var scriptElement = document.createElement('script');
 scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
 vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+### The final visualization feedback - Part 1
+After sharing my final visualization with my teammates and class, I was able to identify some feedback on 
+
 
 #### What story does the visualization tell
 - From the visualization we can appreciate how each year there are 5 genres that dominate the industry because of the number of releases
