@@ -126,7 +126,7 @@ After sharing my final visualization with my teammates and class. I was able to 
 </script>
 
 
-### Second visualization - Addinng detail to the genres
+### Second visualization - Adding detail to the genres
 <div class="flourish-embed flourish-scatter" data-src="visualisation/11835071"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
