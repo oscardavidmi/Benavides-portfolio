@@ -37,4 +37,15 @@ artists and song which was very famous at that time and which I believe is a str
 
 ![Third](https://oscardavidmi.github.io/Benavides-portfolio/Third_different.jpeg?raw=true)
 
+
+# The data
+For this project, I obtained the information needed by constructing it from two datasets. Both datasets were downloaded from the site: 
+https://data.world/kcmillersean/billboard-hot-100-1958-2017  shared by @kcmillersean. The datasets contain information on the billboard top 100 up until 2020 which 
+includes information such as the week in which a particular song was in the ranking, which position, for how long, etc. Moreover, the is also information on the songs 
+like the duration, genres, spotify popularity, etc.
+In addition to the link to the datasets, I have created a file which has all the information I plan to use for my project which you can find here:
+![Data](https://oscardavidmi.github.io/Benavides-portfolio/Music_Evolution.xlsx)
+
+
+
 # References
