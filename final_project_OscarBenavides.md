@@ -48,6 +48,13 @@ In addition to the link to the datasets, I have created a file which has all the
 
 ![Data](https://github.com/oscardavidmi/Benavides-portfolio)
 
+The way I plan to use the information is to cross it using its unique identifier and then extract the relevant information I would need from each of the datasets
+One of the data sets has information on the billboard position of songs and the other dataset has information extracted from Spotify and the information is matched 
+through a unique key identifier. After crossing the datasets I will be extracting relevant information for example, given that I am interested in getting the genres 
+per song and each song can have many genres; what I will be doing is extracting those individual genres and then getting the count those genres appear per year and 
+also decade. Furthermore, since I will have the information on the trends per year and decade I will use that information to get the songs and artists relevant to a 
+given time. Also, since I have the billboard information for every week of the year I will only be extracting a week of each year.; I have picked the last week as the 
+week I will be using for my analysis.
 
 
 # References
