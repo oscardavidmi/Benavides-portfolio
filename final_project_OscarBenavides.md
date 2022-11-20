@@ -13,7 +13,7 @@ the same thing with this information but on a macro level and reducing it to the
 
 # Outline
 
-![Story](https://oscardavidmi.github.io/Benavides-portfolio/Story arc.jpeg?raw=true)
+![Story](https://oscardavidmi.github.io/Benavides-portfolio/Story%20arc.jpeg?raw=true)
 
 
 
