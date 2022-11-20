@@ -18,7 +18,23 @@ We can see some of the most important events in the sad zone given that I am try
 What I hope to achieve is to display how people listening to certain music in a decade use it as a way to deal with the problems they are facing at that time, for 
 example if I look back to the pandemic I remember listening to happy music in order to cope with the lockdowns; I want to find similar trends with the US data.
 
+# Sketches
+For my project I would like to use a variety of charts that will both show the trend of genres per year for each decade as well as a timeline that will give focus to 
+some historical events that may have influenced the trends per decade. Moreover, per each timeline built in each decade I would like to show a example of one of the 
+artists and song which was very famous at that time and which I believe is a strong representation of the decade.
+
+- My first visualization will be a bubble chart which shows a rapid change of the genre preferences per year
+
+![First](https://oscardavidmi.github.io/Benavides-portfolio/First_bubble.jpeg?raw=true)
 
 
+- My second visualization will use a line chart to show how in each decade there are certain events that happen which marked that decade. I will try to tie back these events to one of the most popular genres and the artists that are viewed as the representations of those genres. I will add a picture of the artist next to my visualizations.
+
+![Second](https://oscardavidmi.github.io/Benavides-portfolio/Second_history.jpeg?raw=true)
+
+
+- My third visualization is will be a stacked bar to compare all the decades and visualize the proportions of each genre per decade to appreciate how much they have changed.
+
+![Third](https://oscardavidmi.github.io/Benavides-portfolio/Third_different.jpeg?raw=true)
 
 # References
