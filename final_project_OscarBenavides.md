@@ -56,5 +56,11 @@ also decade. Furthermore, since I will have the information on the trends per ye
 given time. Also, since I have the billboard information for every week of the year I will only be extracting a week of each year.; I have picked the last week as the 
 week I will be using for my analysis.
 
+# Method and medium
+This project will be completed by using shorthand. Such tool will give me the tools to interactively and creatively present information. Moreover, the charts I have 
+sketched will be used as a model for the final visualization which will be done using either Tableau or flourish; those tools will allow me to display all the needed 
+information for the public to understand the relation I am trying to build between trends in music per decade and the corresponding events that may have affected such 
+trends.
+
 
 # References
