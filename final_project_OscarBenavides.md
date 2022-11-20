@@ -46,7 +46,7 @@ like the duration, genres, spotify popularity, etc.
 In addition to the link to the datasets, I have created a file which has all the information I plan to use for my project which you can find here by the name 
 (Music_Evolution.xlsx):
 
-![Data](https://github.com/oscardavidmi/Benavides-portfolio)
+![Data](https://github.com/oscardavidmi/Benavides-portfolio/blob/main/Music_Evolution.xlsx)
 
 The way I plan to use the information is to cross it using its unique identifier and then extract the relevant information I would need from each of the datasets
 One of the data sets has information on the billboard position of songs and the other dataset has information extracted from Spotify and the information is matched 
