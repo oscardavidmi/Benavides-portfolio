@@ -43,9 +43,10 @@ For this project, I obtained the information needed by constructing it from two 
 https://data.world/kcmillersean/billboard-hot-100-1958-2017  shared by @kcmillersean. The datasets contain information on the billboard top 100 up until 2020 which 
 includes information such as the week in which a particular song was in the ranking, which position, for how long, etc. Moreover, the is also information on the songs 
 like the duration, genres, spotify popularity, etc.
-In addition to the link to the datasets, I have created a file which has all the information I plan to use for my project which you can find here:
+In addition to the link to the datasets, I have created a file which has all the information I plan to use for my project which you can find here by the name 
+(Music_Evolution.xlsx):
 
-<a href="Data" target="https://github.com/oscardavidmi/Benavides-portfolio/blob/main/Music_Evolution.xlsx"/>
+<a href="Data" target="https://github.com/oscardavidmi/Benavides-portfolio"/>
 
 
 
