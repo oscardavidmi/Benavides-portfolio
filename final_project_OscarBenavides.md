@@ -30,7 +30,7 @@ artists and song which was very famous at that time and which I believe is a str
 
 - My second visualization will use a line chart to show how in each decade there are certain events that happen which marked that decade. I will try to tie back these events to one of the most popular genres and the artists that are viewed as the representations of those genres. I will add a picture of the artist next to my visualizations.
 
-![Second](https://oscardavidmi.github.io/Benavides-portfolio/Second_history.jpeg?raw=true)
+![Second](https://oscardavidmi.github.io/Benavides-portfolio/Second_history2.jpeg?raw=true)
 
 
 - My third visualization is will be a stacked bar to compare all the decades and visualize the proportions of each genre per decade to appreciate how much they have changed.
