@@ -12,8 +12,12 @@ and fall of the "emo" phase; didnt really liked it but I guess it happened becau
 the same thing with this information but on a macro level and reducing it to the US so it can be more targeted and easier to identify trends if there are.
 
 # Outline
-
+The following outline displays which are the events that will be taken per decade and some examples of songs that people listened to heavily during that decade.
 ![Story](https://oscardavidmi.github.io/Benavides-portfolio/Story%20arc.jpeg?raw=true)
+We can see some of the most important events in the sad zone given that I am trying to relate some of the events that happen back to the music being listened by people. 
+What I hope to achieve is to display how people listening to certain music in a decade use it as a way to deal with the problems they are facing at that time, for 
+example if I look back to the pandemic I remember listening to happy music in order to cope with the lockdowns; I want to find similar trends with the US data.
+
 
 
 
