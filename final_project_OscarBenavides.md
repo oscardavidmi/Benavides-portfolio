@@ -2,16 +2,18 @@
 If you wish to go back to my main page please use the following link:
 [Main page](https://oscardavidmi.github.io/Benavides-portfolio/)
 # Project Summary
-For my project I would like to show information about the top 398 movies listed in IMDB. As a movie fan I am always trying to recommend good movies to the people I know.
-There are a lot of good movies that people dont know because they might not be that "new" and also because of the inmense quantity of movies that come out every day
-which makes it easy for one to lose track of which movies to watch.
-Using this data my intent is to educate people of the distribution of movies in terms of genre, release year, director and stars. In that way we will be able to see how
-many of the best movies came out in a given year and learn when the most fan treasured movies were released. Moreover, I consider many feaetures influence how good a
-movie is rated by fans; for that reason I want to also display which is the genre that is most commonly found in the highest rated movies.
-Also, as one may know the director and stars in the movie have a lot to do with the success of the picture; for this reason I would like to explore the number of movies
-some actors take part in to display which are the movie stars that normally perform in the best movies.
-Finally, to put it in perspective I would like to use the revenue collected by those movies and bring it to present money value so that one can imagine the ammount of 
-money a movie collected in the moment of its release. 
+For my project I would like to show information about the evolution of music through the ages. As a musician I have always looked towards music for inspiration and also
+when I want to find empathy during a particular time. Personally I have seen how music has changed through the years, given that I am a 1990's person I have seen 
+music go from salsa, rock, punk to reggaeton and techno; sometimes I look back and think to myself how did music went from what I knew to this new music and I can see 
+people before me thinking the same thing. 
+As it turns out the music liked by people is influenced by current events, I will be using information on the billboard top songs by year for the last week of the year 
+and crossing that information with events that were taking place in that moment or close to that year (decade for example), I can say that I personally saw the rise
+and fall of the "emo" phase; didnt really liked it but I guess it happened because a collective of people felt they didnt fit in with society. I would like to see
+the same thing with this information but on a macro level and reducing it to the US so it can be more targeted and easier to identify trends if there are.
+
+# Outline
+
+![Story](https://oscardavidmi.github.io/Benavides-portfolio/Story arc.jpeg?raw=true)
 
 
 
