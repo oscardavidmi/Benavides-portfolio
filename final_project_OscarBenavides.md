@@ -64,3 +64,4 @@ trends.
 
 
 # References
+- kcmillersean. (2022, July 18). Billboard Hot Weekly Charts - dataset by kcmillersean. data.world. Retrieved November 20, 2022, from https://data.world/kcmillersean/billboard-hot-100-1958-2017 
