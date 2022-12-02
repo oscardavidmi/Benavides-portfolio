@@ -51,18 +51,16 @@ relevant and sound familiar. Also, ask follow up questions when they stop in a s
 - "Did you felt identified with the way society reacted to events through music? has that happened to you before?"
 - "As a music lover, how interesting do you think this is? do you think people would be interested in understanding the effects of music on society and viceversa?"
 - "Is any visual information not clear or causes friction?"
-- "Who do you think would be interested in this site"
+- "Who do you think would be interested in this story"
 - "Do you have any comments or questions?"
 ##### Wrap up
-“Thank you very much for your time. Do you have any questions?”
+“Thank you very much for your time”
 
 ##### Findings
 - A section which details the general feeling of the decade would be great for each of the decades displayed
 - Information about the danceability of songs for example would be interested to further dig into the theme, might that be interesting?
-- 
+- Graphs are clear and connect key events to some popular genres in an specific time
 
-
-
-- the findings from your interviews
-- changes you plan on implementing to your visualizations next week to address the issues identified
-
+##### Plan to implement changes for visualizations
+- Add banners to each of the decades showing the influence of music over society and vice versa
+- Research information on songs characteristics to try and map out the characteristics of top songs per decade and give an insight on each
