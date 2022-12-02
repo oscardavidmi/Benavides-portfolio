@@ -4,7 +4,8 @@ If you wish to go back to my main page please use the following link:
 
 # Story board
 As an initial sketch, I produced a story board in order to show it to different people and get their feedback:
-https://preview.shorthand.com/q0MlOr8lOMUzupWJ
+[Story board](https://preview.shorthand.com/q0MlOr8lOMUzupWJ)
+
 
 ## User research protocol
 ### Goals of showing story board
