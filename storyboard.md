@@ -34,7 +34,30 @@ less than 10 minutes of your time.”
 “Please remember this interview's purpose is to understand your personal connection to the story and how clear it seems to you. There are no wrong answers”
 #### Main section
 
-- your interview script
+##### First part
+Ask: How many hours on average you spend listening to music per day and how often do you check the news to inform yourself about current events
+" I have my story board here. As you can see, the sections presented in this story board are divided in the most popular genres per decade and then a breakup per
+decade in order to understand all the events that took place in an specific part of that decade. Furtheremore, there is one representative artist from that time
+so that you as a music lover might identify him and understand the type of feelings that particular artist was trying to communicate to its audience. When looking
+at the images and graphs please tell me what you like and what makes sense to you and when something is not clear enough or you find it to be too much or just not
+interesting."
+##### Second part
+As the interviewed person goes through the story board: Ask what they think of some of the messages left in the story board, if the events depicted in the graphs are 
+relevant and sound familiar. Also, ask follow up questions when they stop in a section for too long. Respond to questions about specific events for example
+"Los Angeles riots" which may not be known to everybody so that the intended event is related to the music being presented.
+##### Third part
+"Now that you have 
+
+"OK. First of all, can you tell me (in your own words) what you think this site is for?"
+
+"Who do you think the intended audience is for the site?" or "Who do you think this site is for?"
+
+"What other questions do you have about this site, if any?"
+
+
+
+
+
 - the findings from your interviews
 - changes you plan on implementing to your visualizations next week to address the issues identified
 
