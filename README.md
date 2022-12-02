@@ -13,4 +13,4 @@ Please access each link to see some of the visualizations that are part of my po
 - [Tableau Demo](https://oscardavidmi.github.io/Benavides-portfolio/tableau_demo)
 - [Critique by design](https://oscardavidmi.github.io/Benavides-portfolio/critiquebydesign)
 - [Final project](https://oscardavidmi.github.io/Benavides-portfolio/final_project_OscarBenavides)
-- Storyboards
+- [Story board](https://oscardavidmi.github.io/Benavides-portfolio/storyboard)
