@@ -53,8 +53,13 @@ relevant and sound familiar. Also, ask follow up questions when they stop in a s
 - "Is any visual information not clear or causes friction?"
 - "Who do you think would be interested in this site"
 - "Do you have any comments or questions?"
-##### Findings
+##### Wrap up
+“Thank you very much for your time. Do you have any questions?”
 
+##### Findings
+- A section which details the general feeling of the decade would be great for each of the decades displayed
+- Information about the danceability of songs for example would be interested to further dig into the theme, might that be interesting?
+- 
 
 
 
