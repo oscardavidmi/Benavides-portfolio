@@ -46,14 +46,14 @@ As the interviewed person goes through the story board: Ask what they think of s
 relevant and sound familiar. Also, ask follow up questions when they stop in a section for too long. Respond to questions about specific events for example
 "Los Angeles riots" which may not be known to everybody so that the intended event is related to the music being presented.
 ##### Third part
-"Now that you have 
-
-"OK. First of all, can you tell me (in your own words) what you think this site is for?"
-
-"Who do you think the intended audience is for the site?" or "Who do you think this site is for?"
-
-"What other questions do you have about this site, if any?"
-
+- "Now that you have gone through the story board please tell me what kind of story do you think this piece is trying to tell?"
+- "What did you get from the graphs?, are they clear and transmit you a message?"
+- "Did you felt identified with the way society reacted to events through music? has that happened to you before?"
+- "As a music lover, how interesting do you think this is? do you think people would be interested in understanding the effects of music on society and viceversa?"
+- "Is any visual information not clear or causes friction?"
+- "Who do you think would be interested in this site"
+- "Do you have any comments or questions?"
+##### Findings
 
 
 
