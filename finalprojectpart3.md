@@ -24,7 +24,9 @@ In addition to the link to the datasets, I have created a file which has all the
 # The audience
 The target audience I hope to reach with my story are music lovers that wish to understand how music relates to social events in US and how it helps some people cope
 with what is happening at that moment. These people would be in the age range of 15 - 75 which would be an age range in which people have an awareness of what is
-happening around them and need to find ways to deal with said events or outside pressures.
+happening around them and need to find ways to deal with said events or outside pressures. This story is only made for people living in the US given that it emphasizes
+on events that are profoundly related with the US and does not touch upon events in other countries; moreover, the information of preference per genre was obtained
+from the billboard 100 of each year which contains only information on US preference.
 # Summary
 I had to split my project into three parts to adequately develop it and obtain all the necessary feedback and tools to create a compelling story.
 - For part 1 of my project I sketched some of the visualizations I would use to tell my story. These visualizations were a close approximation to what my end product 
@@ -38,4 +40,9 @@ In order to identify representative individuals to interview I needed to find pe
 them as such I asked them first how many hours a day they listened to music (approximately). If the answer was above 4 hours (US average) the people were classified as 
 highly interested in music. Moreover, another question asked was how often they read the news and how interested they were in current events; if the response was that 
 they constantly checked the news in order to inform themselves about current events then they were candidates for the interview.
-Based on the feedback I got from showing my 
+Based on the interviews I performe to get feedback from my story I got some interesting ideas to connect back to the story I was showing my audience. The feedback I 
+got was the following:
+- A section which details the general feeling of the decade would be great for each of the decades displayed
+- Information about the danceability of songs for example would be interested to further dig into the theme, might that be interesting?
+- Graphs are clear and connect key events to some popular genres in an specific time
+
