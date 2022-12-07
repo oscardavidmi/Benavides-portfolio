@@ -14,3 +14,4 @@ Please access each link to see some of the visualizations that are part of my po
 - [Critique by design](https://oscardavidmi.github.io/Benavides-portfolio/critiquebydesign)
 - [Final project](https://oscardavidmi.github.io/Benavides-portfolio/final_project_OscarBenavides)
 - [Story board](https://oscardavidmi.github.io/Benavides-portfolio/storyboard)
+- [Final project part 3](https://oscardavidmi.github.io/Benavides-portfolio/finalprojectpart3)
