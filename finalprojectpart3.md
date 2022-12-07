@@ -39,10 +39,20 @@ visualizations into shorthand I wanted to have feedback from people who would be
 In order to identify representative individuals to interview I needed to find people who spend a large time of their days listening to music. In order to classify 
 them as such I asked them first how many hours a day they listened to music (approximately). If the answer was above 4 hours (US average) the people were classified as 
 highly interested in music. Moreover, another question asked was how often they read the news and how interested they were in current events; if the response was that 
-they constantly checked the news in order to inform themselves about current events then they were candidates for the interview.
-Based on the interviews I performe to get feedback from my story I got some interesting ideas to connect back to the story I was showing my audience. The feedback I 
+they constantly checked the news in order to inform themselves about current events then they were candidates for the interview. In addition to this,
+these people would be in the age range of 15 - 75 which would be an age range in which people have an awareness of what is happening around them and need to find ways 
+to deal with said events or outside pressures. Also I needed to find people living in the US given that it emphasizes on events that are profoundly related with the US 
+and does not touch upon events in other countries.
+Based on the interviews I performed to get feedback from my story I got some interesting ideas to connect back to the story I was showing my audience. The feedback I 
 got was the following:
 - A section which details the general feeling of the decade would be great for each of the decades displayed
 - Information about the danceability of songs for example would be interested to further dig into the theme, might that be interesting?
 - Graphs are clear and connect key events to some popular genres in an specific time
+After going through the feedback, I made some changes to my story such as creating a banner for each of the years which shows which was the general sentiment of the
+decade according to the events that were happening around that time. Also, I created a visualization based on the attributes of the songs such as how much energy
+does the song have, how much happiness it transmits and how danceable a given song is; then with information from this song I obtained an average of the score
+and reflected that per decade so we could see how each decade changed in these three attributes, this definitely helped to have a more global overview of the music 
+preference in a given decade and relate it back to the music nowadays.
+# Story - Navigating life with music
+<script src="https://carnegiemellon.shorthandstories.com/navigating-life-with-music/embed.js"></script>
 
