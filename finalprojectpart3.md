@@ -2,11 +2,11 @@
 If you wish to go back to my main page please use the following link:
 [Main page](https://oscardavidmi.github.io/Benavides-portfolio/)
 
-# Project Summary
-For my project I would like to show information about the evolution of music through the ages. As a musician I have always looked towards music for inspiration and also
-when I want to find empathy during a particular time. Personally I have seen how music has changed through the years, given that I am a 1990's person I have seen 
+# Initial idea
+For my project I would like to show information about the evolution of music through the ages. As a musician I have always looked towards music for inspiration and 
+also when I want to find empathy during a particular time. Personally I have seen how music has changed through the years, given that I am a 1990's person I have seen 
 music go from salsa, rock, punk to reggaeton and techno; sometimes I look back and think to myself how did music went from what I knew to this new music and I can see 
-people before me thinking the same thing. 
+people before me thinking the same thing. <br>
 As it turns out the music liked by people is influenced by current events, I will be using information on the billboard top songs by year for the last week of the year 
 and crossing that information with events that were taking place in that moment or close to that year (decade for example), I can say that I personally saw the rise
 and fall of the "emo" phase; didnt really liked it but I guess it happened because a collective of people felt they didnt fit in with society. I would like to see
@@ -57,7 +57,15 @@ preference in a given decade and relate it back to the music nowadays. <br> <br>
 After going through the changes made taking my first target into account I realized that not only people who are heavily into music should be though of as the target
 audience but also people who are not; moreover even though all the information was done taking into account US history and US data, actually people from other
 countries can as easily relate to the final message. With this in mind, my final audience are people between 15-75 years given that at this age they already have
-a good awareness of what is happening around them and are probably dealing with multiple complex emotions.
+a good awareness of what is happening around them and are probably dealing with multiple complex emotions. <br>
+After speaking with 2 people 25 years old and 28 years old respectively and asking for their opinion on the story I had a common feedback around the story telling. The 
+message was on the background but there wasnt a clear statement of how the points were connected with the music characteristics. <br>
+The story was showing how was the music trend over the decades, which were the most significant events during that particular decade and also characteristics of the 
+songs in that decade but what was the conclusion or the 'call to action'?. With that in mind, I created a last piece of information including the message I was trying
+to convey but way more specific; citing studies in which experts have discussed the effects of music on peoples mood
+
+# Story - Optional link for direct link access
+[Story link](https://carnegiemellon.shorthandstories.com/navigating-life-with-music/index.html)
 
 # Story - Navigating life with music
 <script src="https://carnegiemellon.shorthandstories.com/navigating-life-with-music/embed.js"></script>
