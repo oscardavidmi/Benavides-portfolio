@@ -47,22 +47,38 @@ Based on the interviews I performed to get feedback from my story I got some int
 got was the following:
 - A section which details the general feeling of the decade would be great for each of the decades displayed
 - Information about the danceability of songs for example would be interested to further dig into the theme, might that be interesting?
-- Graphs are clear and connect key events to some popular genres in an specific time <br> <br> <br>
+- Graphs are clear and connect key events to some popular genres in an specific time <br> <br>
 After going through the feedback, I made some changes to my story such as creating a banner for each of the years which shows which was the general sentiment of the
 decade according to the events that were happening around that time. Also, I created a visualization based on the attributes of the songs such as how much energy
 does the song have, how much happiness it transmits and how danceable a given song is; then with information from this song I obtained an average of the score
 and reflected that per decade so we could see how each decade changed in these three attributes, this definitely helped to have a more global overview of the music 
-preference in a given decade and relate it back to the music nowadays. <br> <br>
+preference in a given decade and relate it back to the music nowadays. <br>
+Furthermore, I also added a visualization per decade which showed the stats of danceability, energy and valence per decade through a gauge visualization.
 ## Second modification on audience?
 After going through the changes made taking my first target into account I realized that not only people who are heavily into music should be though of as the target
 audience but also people who are not; moreover even though all the information was done taking into account US history and US data, actually people from other
 countries can as easily relate to the final message. With this in mind, my final audience are people between 15-75 years given that at this age they already have
 a good awareness of what is happening around them and are probably dealing with multiple complex emotions. <br>
-After speaking with 2 people 25 years old and 28 years old respectively and asking for their opinion on the story I had a common feedback around the story telling. The 
-message was on the background but there wasnt a clear statement of how the points were connected with the music characteristics. <br>
+After noting this I decided to talk to 2 different people and ask for their feedback on my story. <br>
+These people had the following characteristics: <br>
+First interviwed: <br>
+Nationality: Colombian <br>
+Age: 25 <br>
+Occupation: Graduate student <br>
+Music addiction: Low <br>
+Second interviwed: <br>
+Nationality: Colombian <br>
+Age: 28 <br>
+Occupation: Working professional <br>
+Music addiction: Medium <br> <br>
+
+I had a common feedback around the story telling. The message was on the background but there wasnt a clear statement of how the points were connected with the music 
+characteristics. <br>
 The story was showing how was the music trend over the decades, which were the most significant events during that particular decade and also characteristics of the 
 songs in that decade but what was the conclusion or the 'call to action'?. With that in mind, I created a last piece of information including the message I was trying
-to convey but way more specific; citing studies in which experts have discussed the effects of music on peoples mood
+to convey but way more specific; citing studies in which experts have discussed the effects of music on peoples mood with two examples of the effects that sad and
+happy music had con samples of people and an specific call to action. Moreover, both interviewees manifested that the gauge visualizations I had added were too much 
+given that it ended up coming across as redundant so I again had to get rid of them.
 
 # Story - Optional link for direct link access
 [Story link](https://carnegiemellon.shorthandstories.com/navigating-life-with-music/index.html)
