@@ -47,7 +47,7 @@ Based on the interviews I performed to get feedback from my story I got some int
 got was the following:
 - A section which details the general feeling of the decade would be great for each of the decades displayed
 - Information about the danceability of songs for example would be interested to further dig into the theme, might that be interesting?
-- Graphs are clear and connect key events to some popular genres in an specific time <br>
+- Graphs are clear and connect key events to some popular genres in an specific time <br> <br> <br>
 After going through the feedback, I made some changes to my story such as creating a banner for each of the years which shows which was the general sentiment of the
 decade according to the events that were happening around that time. Also, I created a visualization based on the attributes of the songs such as how much energy
 does the song have, how much happiness it transmits and how danceable a given song is; then with information from this song I obtained an average of the score
