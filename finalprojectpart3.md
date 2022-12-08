@@ -53,7 +53,7 @@ decade according to the events that were happening around that time. Also, I cre
 does the song have, how much happiness it transmits and how danceable a given song is; then with information from this song I obtained an average of the score
 and reflected that per decade so we could see how each decade changed in these three attributes, this definitely helped to have a more global overview of the music 
 preference in a given decade and relate it back to the music nowadays. <br> <br>
-## Second modification on feedback?
+## Second modification on audience?
 After going through the changes made taking my first target into account I realized that not only people who are heavily into music should be though of as the target
 audience but also people who are not; moreover even though all the information was done taking into account US history and US data, actually people from other
 countries can as easily relate to the final message. With this in mind, my final audience are people between 15-75 years given that at this age they already have
