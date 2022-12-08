@@ -61,12 +61,12 @@ countries can as easily relate to the final message. With this in mind, my final
 a good awareness of what is happening around them and are probably dealing with multiple complex emotions. <br>
 After noting this I decided to talk to 2 different people and ask for their feedback on my story. <br>
 These people had the following characteristics: <br>
-First interviwed: <br>
+First interviewee: <br>
 Nationality: Colombian <br>
 Age: 25 <br>
 Occupation: Graduate student <br>
 Music addiction: Low <br>
-Second interviwed: <br>
+Second interviewee: <br>
 Nationality: Colombian <br>
 Age: 28 <br>
 Occupation: Working professional <br>
